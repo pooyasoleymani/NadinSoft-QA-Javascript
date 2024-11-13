@@ -19,3 +19,24 @@ By completing this project, you will:
 - Understand the structure of HTML documents.
 - Learn to style elements using CSS.
 - Gain experience in JavaScript for handling events and manipulating the DOM.
+
+
+# Interactive To-Do List Automation Test
+
+## Objective
+Automate the testing of a simple to-do list webpage where users can add, delete, and mark tasks as complete using Selenium WebDriver.
+
+## Prerequisites
+1. **Python**: Make sure Python is installed on your system.
+2. **Selenium**: Install Selenium using pip:
+    ```bash
+    pip install selenium
+    ```
+3. **ChromeDriver**: Download the appropriate WebDriver for Chrome from the [official ChromeDriver website](https://chromedriver.chromium.org/downloads) and ensure it is in your system's PATH.
+
+4. run test.py :
+```bash
+	python test.py
+```
+
+
